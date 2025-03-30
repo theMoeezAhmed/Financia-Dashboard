@@ -1,5 +1,5 @@
 ﻿import streamlit as st
-import matplotlib as plt
+#import matplotlib as plt
 import random
 
 financial_tips = [
