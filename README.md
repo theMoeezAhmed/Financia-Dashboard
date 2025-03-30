@@ -28,4 +28,4 @@ Random (for generating daily tips
 
 🌐 Live App
 
-Try out the live version here: Financial Dashboard
+Try out the live version here: (https://financialdashboardma.streamlit.app/)
