@@ -1,7 +1,7 @@
 ﻿import streamlit as st
-#import matplotlib as plt
+import matplotlib as plt
 import random
-import matplotlib
+#import matplotlib
 
 financial_tips = [
     "Set aside at least 20% of your income for savings.",
